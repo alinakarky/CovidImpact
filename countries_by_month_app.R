@@ -2,8 +2,8 @@
 library(shiny)
 
 # Set your working directory here
-#path = "C:/Users/calda/OneDrive/Documents/University - UC Master/Semester 2 2021/11524 ARVR for Data Analysis and Communication PG/Assignment 2"
-#setwd(path)
+path = "C:/Users/calda/OneDrive/Documents/University - UC Master/Semester 2 2021/11524 ARVR for Data Analysis and Communication PG/Assignment 2"
+setwd(path)
 
 filenames <- c("covid_data_per_country/covid_data_asia.csv",
                "covid_data_per_country/covid_data_chile.csv",
